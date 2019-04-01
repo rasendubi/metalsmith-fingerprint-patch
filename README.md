@@ -1,4 +1,4 @@
-# metalsmith-fingerpint-patch
+# metalsmith-fingerprint-patch
 
 Patch html files after assets fingerprinting.
 

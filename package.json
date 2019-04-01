@@ -22,6 +22,7 @@
   "homepage": "https://github.com/rasendubi/metalsmith-fingerprint-patch#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
-    "debug": "^4.1.1"
+    "debug": "^4.1.1",
+    "srcset": "^1.0.0"
   }
 }
